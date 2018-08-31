@@ -2,33 +2,33 @@
 
 ### General:
 
-- [ ] Appearance
+- [ ] Appearance > choose theme?(选择主题风格)/use animation?(是否使用动漫效果)/use label?(是否开启界面标签)/use tabs?(是否使用制表符)
 
-- [ ] Capabilities
+- [ ] Capabilities > use capabilities(开启myeclipse中一些功能，或者插件的能力)
 
-- [ ] Compare/Path
+- [ ] Compare/Patch > (文件比较补丁)
 
-- [ ] Content Types
+- [ ] Content Types > (mycelipse使用的文件后缀，已经自定义绑定)
 
-- [ ] Editors
+- [ ] Editors > (文本编辑的设置)
 
-- [ ] Golbalization
+- [ ] Golbalization > (全局设置)
 
-- [ ] Kevs
+- [ ] Keys > (热键设置)
 
-- [ ] Network Connections
+- [ ] Network Connections > (网络连接设置)
 
-- [ ] Notifications
+- [ ] Notifications > (myeclipse的通知设置)
 
-- [ ] Perspectives
+- [ ] Perspectives > (透视图设置：插件的小视图)
 
-- [ ] Search
+- [ ] Search > (search选项设置)
 
-- [ ] Security
+- [ ] Security > (myeclipse加密文件方式)
 
-- [ ] Startup and Shutdown
+- [ ] Startup and Shutdown > (myeclipse开启和退出时插件的设置选项)
 
-- [ ] Tracina
+- [ ] Tracina > (跟踪器)
 
 - [ ] UI Responsiveness Monitoring
 
