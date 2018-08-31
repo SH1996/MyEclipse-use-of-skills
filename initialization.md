@@ -1,4 +1,4 @@
-[1.myeclipse_preferences_introduction](./preferences.md)
+[1.myeclipse_preferences_introduction](./preferences_introduction.md)
 
 [2.myeclipse_window_introduction](./window_introduction.md)
 
